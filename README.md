@@ -10,3 +10,5 @@ The KubeSphere team developed KubeKey, an open-source brand-new installer, to he
 
 ![image](https://user-images.githubusercontent.com/98477908/211185204-fa964407-0e51-4354-a34a-c4db5a1a5bfb.png)
 
+
+[Set up an HA Kubernetes Cluster Using Keepalived and HAproxy.docx](https://github.com/sourabhdey21/kubeshpere/files/10367922/Set.up.an.HA.Kubernetes.Cluster.Using.Keepalived.and.HAproxy.docx)
