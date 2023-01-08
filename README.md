@@ -6,5 +6,7 @@ KubeSphere also represents a multi-tenant enterprise-grade Kubernetes container 
 
 The KubeSphere team developed KubeKey, an open-source brand-new installer, to help enterprises quickly set up a Kubernetes cluster on public clouds or data centers. Users have the option to install Kubernetes only or install both KubeSphere and Kubernetes. KubeKey provides users with different installation options such as all-in-one installation and multi-node installation. It is also an efficient tool to install cloud-native add-ons, and upgrade and scale your Kubernetes cluster.
 ![image](https://user-images.githubusercontent.com/98477908/211185157-cc53f4d7-b7d8-4067-9ea4-8cdcdfc00f8b.png)
+![image](https://user-images.githubusercontent.com/98477908/211185376-40639489-70a7-43f5-a2c2-0104ce517024.png)
+
 ![image](https://user-images.githubusercontent.com/98477908/211185204-fa964407-0e51-4354-a34a-c4db5a1a5bfb.png)
 
