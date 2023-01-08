@@ -1,5 +1,9 @@
 # KubeSphere 
 
+# Click on the link to downlod the instllation guide
+
+[Set up an HA Kubernetes Cluster Using Keepalived and HAproxy.docx](https://github.com/sourabhdey21/kubeshpere/files/10367924/Set.up.an.HA.Kubernetes.Cluster.Using.Keepalived.and.HAproxy.docx)
+
 KubeSphere is a distributed operating system for cloud-native application management, using Kubernetes as its kernel. It provides a plug-and-play architecture, allowing third-party applications to be seamlessly integrated into its ecosystem.
 
 KubeSphere also represents a multi-tenant enterprise-grade Kubernetes container platform with full-stack automated IT operation and streamlined DevOps workflows. It provides developer-friendly wizard web UI, helping enterprises to build out a robust and feature-rich platform. It boasts the most common functionalities needed for enterprise Kubernetes strategies, such as Kubernetes resource management, DevOps (CI/CD), application lifecycle management, monitoring, logging, service mesh, multi-tenancy, alerting and notification, auditing, storage and networking, autoscaling, access control, GPU support, multi-cluster deployment and management, network policy, registry management, and security management.
